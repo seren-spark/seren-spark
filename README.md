@@ -19,7 +19,6 @@ I see↗  I like↘  I go↗  I get！
 
 [![Learning](https://skillicons.dev/icons?i=java,spring,mysql,redis)](https://skillicons.dev)
 
-## 🐍 贡献贪吃蛇
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seren-spark/seren-spark/output/github-contribution-grid-snake-dark.svg" />
