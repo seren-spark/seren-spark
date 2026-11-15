@@ -27,8 +27,8 @@
 <!-- Garden footer: https://github.com/yuki4266/living-scene (MIT; see assets/living-scene-LICENSE.txt) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/garden-footer-night.svg" />
-    <img src="assets/garden-footer.svg" width="900" alt="秋日草地里的猫咪：追蝴蝶、跳跃、坐下和伸懒腰" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/garden-footer-night.svg?v=summer-1" />
+    <img src="assets/garden-footer.svg?v=summer-1" width="900" alt="夏日绿草与彩色花丛里的猫咪：追蝴蝶、跳跃、坐下和伸懒腰" />
   </picture>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seren-spark&label=Profile%20views&color=F4795B&style=flat)
