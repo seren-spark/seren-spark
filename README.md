@@ -23,3 +23,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seren-spark/seren-spark/output/github-contribution-grid-snake.svg" />
   <img alt="seren-spark 的 GitHub 贡献贪吃蛇动画" src="https://raw.githubusercontent.com/seren-spark/seren-spark/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<!-- Garden footer: https://github.com/yuki4266/living-scene (MIT; see assets/living-scene-LICENSE.txt) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/garden-footer-night.svg" />
+    <img src="assets/garden-footer.svg" width="900" alt="秋日草地里的猫咪：追蝴蝶、跳跃、坐下和伸懒腰" />
+  </picture>
+
+![Profile Views](https://komarev.com/ghpvc/?username=seren-spark&label=Profile%20views&color=F4795B&style=flat)
+
+<sub>Garden animation by <a href="https://github.com/yuki4266/living-scene">yuki4266 / living-scene</a>.</sub>
+
+</div>
