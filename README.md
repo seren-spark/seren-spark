@@ -18,3 +18,11 @@ I see↗  I like↘  I go↗  I get！
 ### 🌱 正在学习
 
 [![Learning](https://skillicons.dev/icons?i=java,spring,mysql,redis)](https://skillicons.dev)
+
+## 🐍 贡献贪吃蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seren-spark/seren-spark/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seren-spark/seren-spark/output/github-contribution-grid-snake.svg" />
+  <img alt="seren-spark 的 GitHub 贡献贪吃蛇动画" src="https://raw.githubusercontent.com/seren-spark/seren-spark/output/github-contribution-grid-snake.svg" />
+</picture>
