@@ -1,13 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/greeting-dark.svg" />
-  <img src="assets/greeting.svg" alt="Hi 👋 I'm seren-spark" width="560" height="60" />
+  <img src="assets/greeting.svg" alt="Hi 👋 I'm seren_spark — 意外降临的美好里，迸发的那一束灵感与触动的火花" width="900" />
 </picture>
-
-（谐音「serendipity + spark」—— 意外降临的美好里，迸发的那一束灵感与触动的火花 ✨）
-
-> **座右铭**：让你走或者让你留，都是命运在保护你
-
-I see↗  I like↘  I go↗  I get！
 
 ## 🛠️ 技术栈
 
