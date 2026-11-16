@@ -65,8 +65,8 @@ def motion(parent,path,keys,times,start):
         "keyTimes":";".join(num(t/LOOP) for t in times),"calcMode":"linear",
         "dur":num(LOOP)+"s","begin":num(start)+"s","repeatCount":"indefinite"})
 def launch(group,defs,name,cy,scale,start,dark):
-    warm="#ffdb9b" if dark else "#c39847"
-    core="#fff2cd" if dark else "#dda947"
+    warm="#FFD15C" if dark else "#DDA31F"
+    core="#FFE082" if dark else "#FFD54F"
     gradient=ET.SubElement(defs,tag("linearGradient"),{"id":"comet-"+name,"gradientUnits":"userSpaceOnUse","x1":"0","y1":"0","x2":"0","y2":num(66/scale)})
     for offset,opacity in [("0","1"),(".3",".7"),("1","0")]:
         ET.SubElement(gradient,tag("stop"),{"offset":offset,"stop-color":warm,"stop-opacity":opacity})
