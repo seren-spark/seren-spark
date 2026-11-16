@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/greeting-dark.svg?v=6" />
-  <img src="assets/greeting.svg?v=6" alt="Hi 👋 I'm seren-spark — 意外降临的美好里，迸发的那一束灵感与触动的火花" width="900" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/greeting-dark.svg?v=7" />
+  <img src="assets/greeting.svg?v=7" alt="Hi 👋 I'm seren-spark — 意外降临的美好里，迸发的那一束灵感与触动的火花" width="900" />
 </picture>
 
 ## 🛠️ 技术栈
